@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>templates/bookinProfile.html</file>
+        <file>templates/invoice.html</file>
+        <file>templates/reports/shift_report.html</file>
+    </qresource>
+</RCC>

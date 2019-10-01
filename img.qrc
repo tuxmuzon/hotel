@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/booking.png</file>
+        <file>img/card.png</file>
+        <file>img/cash.png</file>
+        <file>img/chees.png</file>
+        <file>img/pay.png</file>
+        <file>img/return_sale.png</file>
+        <file>img/sale.png</file>
+        <file>img/sale_point.png</file>
+        <file>img/clients.png</file>
+        <file>img/cancel.png</file>
+        <file>img/ok.png</file>
+        <file>img/print.png</file>
+        <file>img/save.png</file>
+        <file>img/mail.png</file>
+        <file>img/edit.png</file>
+        <file>img/shift.png</file>
+        <file>img/pay_doc.png</file>
+        <file>img/main.png</file>
+    </qresource>
+</RCC>

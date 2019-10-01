@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+    <hotplug>auto</hotplug>
+
+    <!--device>
+        <id>1</id>
+        <port>0005</port>
+    </device-->
+
+    <!--device>
+        <id>1</id>
+        <port>1-1.2</port>
+    </device-->
+
+    <!--device type="eors">
+        <id>1</id>
+        <app>
+            <port>/dev/ttySP1</port>
+            <baudrate>115200</baudrate>
+        </app>
+        <dev>
+            <port>/dev/ttyS5</port>
+            <baudrate>115200</baudrate>
+        </dev>
+        <protocol>3</protocol>
+    </device-->
+</settings>
